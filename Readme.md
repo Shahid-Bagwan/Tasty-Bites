@@ -55,7 +55,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](#)
-- [Presentation link](#)
+- [Presentation link](https://drive.google.com/file/d/10D12ss-jSQaVf2Cf8L4d4xC8FIMZFAoZ/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SanaTameem/Mealicious-Gallery-JS-Capstone/issues).
+Feel free to check the [issues page](https://github.com/Shahid-Bagwan/Tasty-Bites/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
