@@ -125,9 +125,9 @@ You can deploy this project using:
 
 👤 **Fatema Nazari**
 
-- GitHub: [@githubhandle](#)
-- Twitter: [@twitterhandle](#)
-- LinkedIn: [LinkedIn](#)
+- GitHub: [@78fatemanazari](https://github.com/78fatemanazari)
+- Twitter: [@fati_nazari78](https://twitter.com/fati_nazari78?s=31)
+- LinkedIn: [78fatemanazari](https://www.linkedin.com/in/78fatemanazari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
