@@ -54,13 +54,6 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>N/A</li>
-  </ul>
-</details>
-
 
 ### Key Features <a name="key-features"></a>
 
