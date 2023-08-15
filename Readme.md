@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Mealicious Gallery\] ](#-Tasty Bites-)
+- [📖 \[Tasty Bites\] ](#-Tasty Bites-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
@@ -41,6 +41,32 @@
 - JavaScript
 - Webpack
 <!-- Features -->
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="#">Javascript</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
@@ -85,7 +111,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Mealicious-Gallery-JS-Capstone
+  cd Tasty Bites
   npm install
 ```
 ### Usage
